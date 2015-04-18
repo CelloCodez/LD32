@@ -1,0 +1,1 @@
+java -Djava.library.path=jars/native/windows/ -cp game.jar cellocoder.ld32.LudumDare
